@@ -27,11 +27,11 @@ Most business owners have no idea how to set AI up for their own books, files, o
 
 ### 2. Want to talk instead of type? Add Wispr Flow
 - Get it at https://wisprflow.ai/r?NICOLE342 (affiliate link).
-- In Wispr Flow's settings, turn off **Dictation cloud storage**. Then your dictation stays on your computer.
-- Hold its key, talk, and your words appear. Typing works the same if you skip this.
+- In Wispr Flow, click **Settings**, then **Data and Privacy**, and turn off **Dictation cloud storage**. Then Wispr does not keep your dictation on its servers. If you ever sign out, check this switch again.
+- Hold the fn key, talk, and your words appear. Typing works the same if you skip this.
 
 ### 3. Download the kit
-- On sociallysmashing.com/find-your-work, click **Download the kit**.
+- On sociallysmashing.com/find-your-work, click **Get your copy of the kit**.
 - Double-click the file to unzip it. You get a folder called `find-your-work-kit`.
 
 ### 4. Open it in Claude Cowork

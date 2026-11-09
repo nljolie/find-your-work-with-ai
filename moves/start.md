@@ -7,7 +7,7 @@
    - We turn it into money: a service, a side income, or a job.
    - You stay in charge. Nothing gets sent or posted without you.
 3. Tell her where her answers live, in one line: "Everything you tell me is saved in the me folder inside this kit, on your own computer."
-4. Tell her she can talk instead of type, in one line: "If you have Wispr Flow, hold its key and talk. If not, typing works the same."
+4. Tell her she can talk instead of type, in one line: "If you have Wispr Flow, hold the fn key and talk. If not, typing works the same."
 5. Create these files in `me/` if they are missing, each with a one-line heading:
    - `me/about-me.md`
    - `me/what-i-like.md`
