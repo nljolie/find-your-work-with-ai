@@ -22,7 +22,7 @@ Most business owners have no idea how to set AI up for their own books, files, o
 ## Set it up in four steps
 
 ### 1. Get the Claude app
-- Download it at https://claude.com/download and sign in.
+- Download it at https://claude.com/download (the official link) and sign in. Mac, Windows, and Linux.
 - Cowork, the part of Claude that works with a folder on your computer, comes with a paid Claude plan.
 
 ### 2. Want to talk instead of type? Add Wispr Flow
@@ -35,7 +35,7 @@ Most business owners have no idea how to set AI up for their own books, files, o
 - Double-click the file to unzip it. You get a folder called `find-your-work-kit`.
 
 ### 4. Open it in Claude Cowork
-- In the Claude app, open **Cowork**.
+- In the Claude app's message box, select **Cowork**. Not showing? Update the app.
 - Choose the `find-your-work-kit` folder.
 - Say: **Let's start.** The game begins.
 
