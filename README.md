@@ -4,7 +4,7 @@ You are good at something. AI can help you find out what, and who will pay for i
 
 This is not a job board. It is a place to figure out the work you like, where AI fits in, and how to make money at it. Then, if a job is what you choose, it helps you go get one.
 
-Made by Nicole Jolie, Be Socially Smashing. sociallysmashing.com
+Made by Nicole Jolie. Owned by Be Socially Smashing LLC. sociallysmashing.com
 
 ---
 
@@ -83,4 +83,6 @@ That is it. You are in.
 
 ---
 
-Credit: the job search steps in `/search` are adapted from ai-job-search by Mads Lorentzen, under the MIT License. See LICENSE.
+Copyright 2026 Be Socially Smashing LLC. MIT License.
+
+Credit: the job search steps in `/search` are adapted from ai-job-search by Mads Lorentzen, under the MIT License. His notice is kept in LICENSE, as that license requires.
