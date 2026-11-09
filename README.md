@@ -85,4 +85,4 @@ That is it. You are in.
 
 Copyright 2026 Be Socially Smashing LLC. MIT License.
 
-Credit: the job search steps in `/search` are adapted from ai-job-search by Mads Lorentzen, under the MIT License. His notice is kept in LICENSE, as that license requires.
+Credit: the job search steps in `/search` are adapted from ai-job-search by Mads Lorentzen, under the MIT License. His notice is kept in THIRD_PARTY_NOTICES.md, as that license requires.
