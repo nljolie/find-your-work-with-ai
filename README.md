@@ -4,7 +4,7 @@ You are good at something. AI can help you find out what, and who will pay for i
 
 This is not a job board. It is a place to figure out the work you like, where AI fits in, and how to make money at it. Then, if a job is what you choose, it helps you go get one.
 
-Made by Nicole Jolie. Owned by Be Socially Smashing LLC. sociallysmashing.com
+Made by Nicole Jolie. Owned by Be Socially Smashing LLC. sociallysmashing.com/find-your-work
 
 ---
 
@@ -15,74 +15,55 @@ Made by Nicole Jolie. Owned by Be Socially Smashing LLC. sociallysmashing.com
 - You keep hearing AI is taking that work.
 - You are not sure what comes next, or where AI fits.
 
-Here is the good news. Most business owners have no idea how to set AI up for their own books, files, or schedules. You already know how the work is supposed to go. That is the part they pay for.
+Most business owners have no idea how to set AI up for their own books, files, or schedules. You already know how the work is supposed to go. That is the part they pay for.
 
 ---
 
-## What you do here, in five moves
+## Set it up in four steps
 
-| Move | Type this | What happens |
-|---|---|---|
-| 1. Start | `/start` | Your AI says hello and sets up your private folder |
-| 2. Discover | `/discover` | A quick game: pick the work you like, skip what drains you |
-| 3. Match | `/match` | Where AI fits your strengths, and who would pay for that help |
-| 4. Offer | `/offer` | Turn it into a service, a side income, or a job target |
-| 5. Search | `/search` | Find real openings, see how well each fits, get a resume that fits it |
+### 1. Get the Claude app
+- Download it at https://claude.com/download and sign in.
+- Cowork, the part of Claude that works with a folder on your computer, comes with a paid Claude plan.
 
-Bonus: `/practice` runs a practice interview with you, out loud if you like.
+### 2. Want to talk instead of type? Add Wispr Flow
+- Get it at https://wisprflow.ai/r?NICOLE342 (affiliate link).
+- In Wispr Flow's settings, turn off **Dictation cloud storage**. Then your dictation stays on your computer.
+- Hold its key, talk, and your words appear. Typing works the same if you skip this.
 
-Every move is short. No reading a book. Answer, pick, move on.
+### 3. Download the kit
+- On sociallysmashing.com/find-your-work, click **Download the kit**.
+- Double-click the file to unzip it. You get a folder called `find-your-work-kit`.
+
+### 4. Open it in Claude Cowork
+- In the Claude app, open **Cowork**.
+- Choose the `find-your-work-kit` folder.
+- Say: **Let's start.** The game begins.
 
 ---
 
-## Set it up once (about 20 minutes)
+## What you say, and what happens
 
-### 1. Get a free GitHub account
-- Go to https://github.com/signup
-- GitHub is a safe place online that holds folders of files. Think of it as a filing cabinet with a history.
-- Your copy will be yours. Private. Only you can see it.
+| Say this | What happens |
+|---|---|
+| Let's start | Claude says hello and sets up your folder |
+| Play the card game | Pick the work you love, skip what drains you |
+| Where does AI fit me? | What AI does, what you do, and who would pay for that help |
+| Show me how to make money at it | A service, a side income, or a job |
+| Find me openings | Real openings, scored for fit, with a resume fitted to each one |
+| Practice an interview | Five questions, one at a time, with notes |
 
-### 2. Make your own private copy of this
-- At the top of this page, click the green **Use this template** button.
-- Click **Create a new repository**.
-- Name it something like `my-work-with-ai`.
-- Choose **Private**. This matters. Your answers stay yours.
-- Click **Create repository**.
-
-### 3. Download VS Code
-- Go to https://code.visualstudio.com and download it. It is free.
-- VS Code is where you and your AI work together, side by side with your files.
-- Heads up: VS Code has its own chat called Copilot. Close it. You will use Claude or Codex instead.
-
-### 4. Add your AI helper
-- In VS Code, click the square Extensions icon on the left.
-- Search **Claude Code** and install it. (Or search **Codex** if you use ChatGPT.)
-- Sign in when it asks.
-
-### 5. Open your copy
-- In VS Code, click **Clone Git Repository**.
-- Sign in to GitHub when it asks, pick `my-work-with-ai`, and choose where to keep it on your computer.
-- Open the Claude panel and type `/start`.
-
-That is it. You are in.
+You do not have to say it exactly. Say it your way.
 
 ---
 
 ## What stays private
 
-- Everything you share goes into the `me/` folder of your private copy.
-- Nothing is posted anywhere unless you do it yourself.
-- Your AI never makes up experience for you. It only uses what you tell it.
-
----
-
-## Using Codex instead of Claude
-
-- Open the Codex panel in VS Code.
-- Say: "Read CLAUDE.md and the files in .claude/commands, then run start."
+- Everything you share is saved in the `me/` folder inside the kit, on your own computer.
+- Nothing is posted or sent anywhere unless you do it yourself.
+- Claude never makes up experience for you. It only uses what you tell it.
 
 ---
 
 Copyright 2026 Be Socially Smashing LLC. MIT License.
 
-Credit: the job search steps in `/search` are adapted from ai-job-search by Mads Lorentzen, under the MIT License. His notice is kept in THIRD_PARTY_NOTICES.md, as that license requires.
+Credit: the job search steps in `moves/search.md` are adapted from ai-job-search by Mads Lorentzen, under the MIT License. His notice is kept in THIRD_PARTY_NOTICES.md, as that license requires.

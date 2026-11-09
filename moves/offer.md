@@ -1,4 +1,4 @@
-# /offer: three ways to make money at it
+# Three ways to make money (she says "Show me how to make money at it")
 
 Read everything in `me/` first.
 
@@ -17,5 +17,5 @@ Ask her to pick one path to start. She can come back for the others.
 
 Save in `me/what-i-want.md` under "My path": the path she picked, her one sentence, and her first step.
 
-If she picked a job: "Ready to look at real openings? Type /search."
+If she picked a job: "Ready to look at real openings? Just say: Find me openings."
 If she picked a service or side income: "Want help writing your first message to someone who could use this? Ask me."

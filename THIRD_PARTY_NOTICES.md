@@ -1,6 +1,6 @@
 # Third-party notices
 
-Portions of the job search steps in `.claude/commands/search.md` are adapted from ai-job-search (https://github.com/ai-job-search-dev/ai-job-search), used under the MIT License below.
+Portions of the job search steps in `moves/search.md` are adapted from ai-job-search (https://github.com/ai-job-search-dev/ai-job-search), used under the MIT License below.
 
 ```
 MIT License

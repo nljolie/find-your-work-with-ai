@@ -1,4 +1,4 @@
-# /search: real openings, scored and fitted
+# Real openings, scored and fitted (she says "Find me openings")
 
 Read everything in `me/` first, especially "My path" in `me/what-i-want.md` and `me/my-work-history.md`. If `my-work-history.md` is empty, fill it first: ask her for her last three to five jobs or roles (paid or volunteer), dates if she knows them, and what she did. Or ask her to drop her resume into `me/` and read it.
 

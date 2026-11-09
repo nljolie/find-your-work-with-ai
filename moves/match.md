@@ -1,4 +1,4 @@
-# /match: where AI fits, and who would pay her
+# Where AI fits (she says "Where does AI fit me?")
 
 Read `me/what-i-like.md`, `me/what-drains-me.md`, and `me/about-me.md` first.
 
@@ -20,4 +20,4 @@ Save her answers in `me/what-i-want.md` under "Where AI fits me."
 
 Never promise income. Never say a job is safe or doomed. Show what AI does and what she does, and let her choose.
 
-End with: "Let's turn that into money. Type /offer."
+End with: "Let's turn that into money. Just say: Show me how to make money at it."

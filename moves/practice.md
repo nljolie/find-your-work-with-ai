@@ -1,4 +1,4 @@
-# /practice: a practice interview
+# A practice interview (she says "Practice an interview")
 
 Ask which job in `jobs/` she wants to practice for. Read its `posting.md` and her files in `me/`.
 

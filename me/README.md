@@ -1,5 +1,3 @@
 # me/
 
-Your private answers live here. Your AI fills these in as you play /start, /discover, /match, and /offer.
-
-Keep your copy private on GitHub so this folder stays yours.
+Your answers live here, on your own computer. Claude fills these in as you play: Let's start, the card game, where AI fits, and making money at it.
