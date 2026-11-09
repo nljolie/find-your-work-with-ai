@@ -27,7 +27,7 @@ Most business owners have no idea how to set AI up for their own books, files, o
 
 ### 2. Want to talk instead of type? Add Wispr Flow
 - Get it at https://wisprflow.ai/r?NICOLE342 (affiliate link).
-- In Wispr Flow, click **Settings**, then **Data and Privacy**, and turn off **Dictation cloud storage**. Then Wispr does not keep your dictation on its servers. If you ever sign out, check this switch again.
+- In Wispr Flow, click **Settings**, then **Data and Privacy**, and turn off **Dictation cloud storage**. Then Wispr does not keep your dictation on its servers. Logged out and back in? Do these steps again. Logging out turns cloud storage back on.
 - Hold the fn key, talk, and your words appear. Typing works the same if you skip this.
 
 ### 3. Download the kit
