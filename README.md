@@ -23,7 +23,7 @@ Most business owners have no idea how to set AI up for their own books, files, o
 
 ### 1. Get the Claude app
 - Download it at https://claude.com/download (the official link) and sign in. Mac, Windows, and Linux.
-- Cowork, the part of Claude that works with a folder on your computer, comes with a paid Claude plan.
+- Working with a folder on your computer comes with a paid Claude plan.
 
 ### 2. Want to talk instead of type? Add Wispr Flow
 - Get it at https://wisprflow.ai/r?NICOLE342 (affiliate link).
@@ -34,10 +34,14 @@ Most business owners have no idea how to set AI up for their own books, files, o
 - On sociallysmashing.com/find-your-work, click **Get your copy of the kit**.
 - Double-click the file to unzip it. You get a folder called `find-your-work-kit`.
 
-### 4. Open it in Claude Cowork
-- In the Claude app's message box, select **Cowork**. Not showing? Update the app.
-- Choose the `find-your-work-kit` folder.
+### 4. Make a project. Say Let's start.
+- In the Claude app, under the message box, click **Project or folder**, then **New project**.
+- Give it a name, like My AI Work Project.
+- Click **Use a folder** and pick the `find-your-work-kit` folder. Do not upload the files. Use the folder.
+- Click **Create project**.
+- Claude asks to use the folder. Click **Allow**. Your Mac asks too. Click **Allow** again.
 - Say: **Let's start.** The game begins.
+- Coming back later? Open **Projects** and click your project. Your folder is still there.
 
 ---
 
@@ -59,7 +63,8 @@ You do not have to say it exactly. Say it your way.
 ## What stays private
 
 - Everything you share is saved in the `me/` folder inside the kit, on your own computer.
-- Nothing is posted or sent anywhere unless you do it yourself.
+- Claude reads your files to work with you, so they are processed on Anthropic's servers, the same as any Claude chat.
+- Nothing is posted or shared unless you do it yourself.
 - Claude never makes up experience for you. It only uses what you tell it.
 
 ---
