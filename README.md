@@ -56,7 +56,7 @@ Most business owners have no idea how to set AI up for their own books, files, o
 | Find me openings | Real openings, scored for fit, with a resume fitted to each one |
 | Practice an interview | Five questions, one at a time, with notes |
 
-You do not have to say it exactly. Say it your way.
+Any words work. Say it your way.
 
 ---
 
